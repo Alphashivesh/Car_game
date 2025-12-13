@@ -163,9 +163,9 @@ Car_game/
   </tr>
  
   <tr>
-    <td><img src="assets/Screenshot 2025-12-13 202921.png" alt="Home Screen" width="250"/></td>
-    <td><img src="assets/Screenshot 2025-12-13 203002.png" alt="Instruction Screen" width="250"/></td>
-    <td><img src="assets/Screenshot 2025-12-13 203030.png" alt="Menu Screen" width="250"/></td>
+    <td><img src="assets/Screenshot 2025-12-13 202921.png" alt="Home Screen" width="250" height="500"/></td>
+    <td><img src="assets/Screenshot 2025-12-13 203002.png" alt="Instruction Screen" width="250" height="500"/></td>
+    <td><img src="assets/Screenshot 2025-12-13 203030.png" alt="Menu Screen" width="250" height="500"/></td>
   </tr> 
   <tr>
     <td align="center"><strong>Resume Form</strong></td>
@@ -173,9 +173,9 @@ Car_game/
     <td align="center"><strong>Game Over Screen</strong></td>
   </tr>
   <tr>
-    <td><img src="assets/Screenshot 2025-12-13 220154.png" alt="Resume Screen" width="250"/></td>
-    <td><img src="assets/Screenshot 2025-12-13 203050.png" alt="Name Submit Screen" width="250"/></td>
-    <td><img src="assets/Screenshot 2025-12-13 203107.png" alt="Game Over Screen" width="250"/></td>
+    <td><img src="assets/Screenshot 2025-12-13 220154.png" alt="Resume Screen" width="250" height="500"/></td>
+    <td><img src="assets/Screenshot 2025-12-13 203050.png" alt="Name Submit Screen" width="250" height="500"/></td>
+    <td><img src="assets/Screenshot 2025-12-13 203107.png" alt="Game Over Screen" width="250" height="500"/></td>
   </tr>
 </table>
 

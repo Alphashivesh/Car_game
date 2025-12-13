@@ -128,7 +128,7 @@ python main2.py
 
 ## 📂 Project Structure
 
-```text```
+```
 Car_game/
 │
 ├── game_backend/
@@ -142,7 +142,7 @@ Car_game/
 ├── leaderboard.sql         # SQL script for database setup
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
-
+```
 ---
 
 ## 🔮 Future Improvements

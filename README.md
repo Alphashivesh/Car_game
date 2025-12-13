@@ -19,6 +19,14 @@ Unlike simple standalone games, this project demonstrates **Client-Server Archit
 
 ---
 
+## 🎥 Live Demo
+
+A complete video demonstration of the application, from user registration to submitting a service request, is available on YouTube. Click the thumbnail below to watch.
+
+[<img src = "assets/new.jpg"/>](https://youtu.be/u3mVQ0xqKAM)
+
+---
+
 ## 🚀 Key Features
 
 ### 🎮 Gameplay Mechanics

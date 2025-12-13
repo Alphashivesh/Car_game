@@ -163,7 +163,7 @@ Car_game/
   </tr>
  
   <tr>
-    <td><img src="assets/Screenshot 2025-12-13 202921.png" alt="Home Screen" width="150" height="500"/></td>
+    <td><img src="assets/Screenshot 2025-12-13 202921.png" alt="Home Screen" width="250" height="500"/></td>
     <td><img src="assets/Screenshot 2025-12-13 203002.png" alt="Instruction Screen" width="250" height="500"/></td>
     <td><img src="assets/Screenshot 2025-12-13 203030.png" alt="Menu Screen" width="250" height="500"/></td>
   </tr> 

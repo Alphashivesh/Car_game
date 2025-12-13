@@ -168,8 +168,8 @@ Car_game/
     <td><img src="assets/Screenshot 2025-12-13 203030.png" alt="Menu Screen" width="250" height="500"/></td>
   </tr> 
   <tr>
-    <td align="center"><strong>Resume Form</strong></td>
-    <td align="center"><strong>Name Submit Form</strong></td>
+    <td align="center"><strong>Resumed Screen</strong></td>
+    <td align="center"><strong>Name Submit Screen</strong></td>
     <td align="center"><strong>Game Over Screen</strong></td>
   </tr>
   <tr>

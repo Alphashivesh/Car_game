@@ -81,21 +81,17 @@ pip install -r requirements.txt
 1. Open your MySQL client (Workbench or Command Line).
 2. Create the database and table by running the SQL commands found in `leaderboard.sql` (or `car_game.sql`):
 ```sql```
+```
 CREATE DATABASE car_game;
-
 USE car_game;
-
 CREATE TABLE leaderboard (
-
     id INT AUTO_INCREMENT PRIMARY KEY,
-    
     name VARCHAR(50),
-    
     score INT,
-    
     timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
-    
 );
+
+```
 
 ### 5. Configure Backend
 1. Open `game_backend/app.py`.

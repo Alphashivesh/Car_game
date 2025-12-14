@@ -70,12 +70,14 @@ Follow these steps to run the project locally.
 
 ### 2. Clone the Repository
 ```bash```
-git clone [https://github.com/Alphashivesh/Car_game.git](https://github.com/Alphashivesh/Car_game.git)
+```git clone [https://github.com/Alphashivesh/Car_game.git](https://github.com/Alphashivesh/Car_game.git)
 cd Car_game
+```
 
 ### 3. Install Dependencies
 ```bash```
-pip install -r requirements.txt
+```pip install -r requirements.txt
+```
 
 ### 4. Database Setup
 1. Open your MySQL client (Workbench or Command Line).
@@ -97,13 +99,13 @@ CREATE TABLE leaderboard (
 1. Open `game_backend/app.py`.
 2. Update the database connection settings with **your** MySQL password:
 ```python```
-db = pymysql.connect(
+```db = pymysql.connect(
     host="localhost",
     user="root",
     password="YOUR_PASSWORD_HERE",  # <--- Update this!
     database="car_game"
 )
-
+```
 ---
 
 ## ▶️ How to Run

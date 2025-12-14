@@ -202,4 +202,4 @@ Car_game/
 - GitHub: [https://github.com/Alphashivesh](https://github.com/Alphashivesh)
 
 ---
-*Created for the Final Year Project / Hobby Project demonstrating Full Stack capabilities.*
+*Created for the Hobby Project demonstrating Full Stack capabilities.*
